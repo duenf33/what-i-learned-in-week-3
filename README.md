@@ -36,4 +36,4 @@ Searching for (and fixing) errors in programming code is called code debugging.<
 We are going to take a closer look on how to debug in VSCode. It is simple to do, however it could be a little confusing at first.<br>
 Here below I will have some screenshots explaining the steps to follow ⇲<br>
 
-[vscode-debugging](./week3/vscode-debugging-hd.gifvscode-debugging-hd.gif)
+![vscode-debugging](./week3/vscode-debugging-hd.gif)
