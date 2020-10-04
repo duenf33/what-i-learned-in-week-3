@@ -48,3 +48,10 @@ The process.argv property is an inbuilt application programming interface of the
 This property returns an array containing the arguments passed to the process when run it in the command line. The first element is the process execution path and the second element is the path for the js file.<br>
 
 ![process.argv](week3/process-argv.png)
+
+As you can see in the left hand side of the screenshot above. There is a terminal displaying a couple of commands invoking `node main.js red blue`.<br>
+Pretty much this command is inputting the colors to the code in the right hand side. You can see those two constants `color1` and `color2` both with `process.argv[]`property with an argument location value of the previous mentioned colors `red` and `blue`. Here Below I will show how this terminal command is looked at as an array ⇲<br>
+
+|   0   |   1   |   2   |   3   |
+| :---: | :---: | :---: | :---: |
+| node  |main.js|  red  |  blue |
