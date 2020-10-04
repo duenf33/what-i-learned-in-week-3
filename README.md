@@ -32,8 +32,19 @@ As you can see on this example above we called the `function example` before the
 Programming code might contain syntax errors, or logical errors.<br>
 Many of these errors are difficult to diagnose.<br>
 Often, when programming code contains errors, nothing will happen. There are no error messages, and you will get no indications where to search for errors.<br>
-Searching for (and fixing) errors in programming code is called code debugging.<br>
+Searching for and fixing errors in programming code is called `code debugging`.<br>
 We are going to take a closer look on how to debug in VSCode. It is simple to do, however it could be a little confusing at first.<br>
-Here below I will have some screenshots explaining the steps to follow ⇲<br>
+Here below is a `gif` file showing in a few steps how to debug a simple function ⇲<br>
 
-![vscode-debugging](./week3/vscode-debugging-hd.gifvscode-debugging-hd.gif)
+![vscode-debugging](./week3/vscode-debugging-hd.gif)
+
+[Click here to find more information about `VS-Code debugging`](https://code.visualstudio.com/docs/editor/debugging)
+
+---
+
+## ♺ Node.js `process.argv` property ♺<br>
+The process.argv property is an inbuilt application programming interface of the process module which is used to get the arguments passed to the node.js process when run in the command line.<br>
+
+This property returns an array containing the arguments passed to the process when run it in the command line. The first element is the process execution path and the second element is the path for the js file.<br>
+
+![process.argv](week3/process-argv.png)
