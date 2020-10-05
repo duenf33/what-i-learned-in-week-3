@@ -1,6 +1,6 @@
 # WHAT-I-LEARNED-IN-WEEK-3
 
-![mind blowing gif](https://miro.medium.com/max/700/1*_pGj3DixmBImxcAl_HWWdA.gif)
+![mind blowing gif](week3/mind-blowing.gif)
 
 ## 🎢 Hoisting :
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).<br>
