@@ -1,5 +1,7 @@
 # WHAT-I-LEARNED-IN-WEEK-3
 
+![mind blowing gif](https://miro.medium.com/max/700/1*_pGj3DixmBImxcAl_HWWdA.gif)
+
 ## 🎢 Hoisting :
 Hoisting is JavaScript's default behavior of moving all declarations to the top of the current scope (to the top of the current script or the current function).<br>
 For example:<br>
@@ -88,3 +90,6 @@ Going back to the topic. Here below is a flow chart I made. It is not the greate
 
 The blue lines are not loop lines. They are there just to reference the instruction number that were given to us.<br>
 I tried to do my code without a flow chart and I've noticed I was forgetting the previews steps and I was getting slightly confused and spending more of time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
+
+---
+
