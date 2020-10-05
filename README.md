@@ -79,7 +79,7 @@ Here below is a flowchart, which it looks presentable, however the flow of the c
 
 The good thing about this is to picture the flow of your code in order to have a broad display of your idea.<br>
 
-> ( ***On a side note***. I tried to use a link from slack showing this picture above, but I was not able to, so i had to download the picture in order to display it. There seems to be some sort of limitation with slack link, similarly with google drive share pictures.<br>
+> ( ***On a side note***. I tried to use a links from slack showing this picture above, but I was not able to, so i had to download the picture in order to display it. There seems to be some sort of limitation with slack link, similarly with google drive shared pictures.<br>
 I thought it would be a good point to make since thats what we do... Explore. )
 
 Going back to the topic. Here below is a flow chart I made. It is not the greatest and it does not follow the right techniques of flow chart, however, it was able to let me see the big picture of my code ⇲<br>
@@ -87,4 +87,4 @@ Going back to the topic. Here below is a flow chart I made. It is not the greate
 ![my flow chart](week3/my-flow-chart.jpg)
 
 The blue lines are not loop lines. They are there just to reference the instruction number that were given to us.<br>
-I tried to do myt code without flow chart and I have noticed I was forgetting the previews steps and I was getting slightly confused and spending more of time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
+I tried to do my code without a flow chart and I've noticed I was forgetting the previews steps and I was getting slightly confused and spending more of time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
