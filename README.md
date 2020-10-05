@@ -19,12 +19,12 @@ As you can see in the example above we are `console.log`-ing before we declare t
 
 * This will work ⇲<br>
 ```javascript
+example(2, 2); // result: 4
+
 function example(a, b) {
 
     return a + b;
 }
-
-example(2, 2); // result: 4
 ```
 As you can see on this example above we called the `function example` before the function and we were still able to run what was inside the function.<br>
 
