@@ -73,7 +73,7 @@ It shows how we are able to concatenate the first and last name with the server 
 
 ---
 
-# 🌊 Flow charts 🏄‍♂️
+## 🌊 Flow charts 🏄‍♂️
 
 Here below is a flowchart, which it looks presentable, however the flow of the code is not exactly correct ⇲<br>
 ![wrong flow chart](week3/wrong-flow-chart.png)
