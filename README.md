@@ -63,7 +63,7 @@ This is basically this ⇲
 ```javascript
 [0, 1, 2, 3]
 ```
-These are 4 indices in an array, always starting with the number `0` and `2` and `3` will be the colors invoked in the command.<br>
+These are 4 indices in an array, always starting with the number `0`, which is the execution path, number `1`, which is the path for the `js` file, follow by `2` and `3`, which will be the colors invoked in the command line.<br>
 
 Here below is one more screenshot showing one of out pair-programming projects ⇲<br>
 
@@ -81,15 +81,15 @@ Here below is a flowchart, which it looks presentable, however the flow of the c
 
 The good thing about this is to picture the flow of your code in order to have a broad display of your idea.<br>
 
-> ( ***On a side note***. I tried to use a links from slack showing this picture above, but I was not able to, so i had to download the picture in order to display it. There seems to be some sort of limitation with slack link, similarly with google drive shared pictures.<br>
-I thought it would be a good point to make since thats what we do... Explore. )
+> ( ***On a side note***. I tried to use a links from slack showing this picture above, but I was not able to do, so I had to download the picture in order to display it. There seems to be some sort of limitation with slack link, similarly with google drive shared pictures.<br>
+I thought it would be a good point to make since that's what we do... Explore. )
 
-Going back to the topic. Here below is a flow chart I made. It is not the greatest and it does not follow the right techniques of flow chart, however, it was able to let me see the big picture of my code ⇲<br>
+Going back to the topic. Here below is a flow chart I made. It is not the greatest and it does not follow the right techniques of a flow chart, however, it was able to let me see the big picture of my code ⇲<br>
 
 ![my flow chart](week3/my-flow-chart.jpg)
 
 The blue lines are not loop lines. They are there just to reference the instruction number that were given to us.<br>
-I tried to do my code without a flow chart and I've noticed I was forgetting the previews steps and I was getting slightly confused and spending more of time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
+I tried to do my code without a flow chart and I've noticed I was forgetting the previews steps and I was getting slightly confused and spending more of my time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
 
 ---
 
