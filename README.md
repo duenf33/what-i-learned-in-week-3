@@ -50,8 +50,41 @@ This property returns an array containing the arguments passed to the process wh
 ![process.argv](week3/process-argv.png)
 
 As you can see in the left hand side of the screenshot above. There is a terminal displaying a couple of commands invoking `node main.js red blue`.<br>
-Pretty much this command is inputting the colors to the code in the right hand side. You can see those two constants `color1` and `color2` both with `process.argv[]`property with an argument location value of the previous mentioned colors `red` and `blue`. Here Below I will show how this terminal command is looked at as an array ⇲<br>
+Pretty much this command is inputting the colors to the code in the right hand side. You can see those two constants `color1` and `color2` both with `process.argv[]`property and the square brackets enclosing and index number which will invoke the previous mentioned colors `red` and `blue`. Here Below I will show how this terminal command is looked at as an array ⇲<br>
 
 |   0   |   1   |   2   |   3   |
 | :---: | :---: | :---: | :---: |
 | node  |main.js|  red  |  blue |
+
+This is basically this ⇲
+
+```javascript
+[0, 1, 2, 3]
+```
+These are 4 indices in an array, always starting with the number `0` and `2` and `3` will be the colors invoked in the command.<br>
+
+Here below is one more screenshot showing one of out pair-programming projects ⇲<br>
+
+![name-last-name](week3/name-last-name-process-argv.png)
+
+It shows how we are able to concatenate the first and last name with the server and domain name. It was a pretty neat project with node.js.<br>
+
+---
+
+# 🌊 Flow charts 🏄‍♂️
+
+Here below is a flowchart, which it looks presentable, however the flow of the code is not exactly correct ⇲<br>
+![wrong flow chart](week3/wrong-flow-chart.png)
+[This is the link to the wrong flow chart from slack.](https://slack-files.com/T01AQT1MFCH-F01BTUHB19A-20e89475bf)
+
+The good thing about this is to picture the flow of your code in order to have a broad display of your idea.<br>
+
+> ( ***On a side note***. I tried to use a link from slack showing this picture above, but I was not able to, so i had to download the picture in order to display it. There seems to be some sort of limitation with slack link, similarly with google drive share pictures.<br>
+I thought it would be a good point to make since thats what we do... Explore. )
+
+Going back to the topic. Here below is a flow chart I made. It is not the greatest and it does not follow the right techniques of flow chart, however, it was able to let me see the big picture of my code ⇲<br>
+
+![my flow chart](week3/my-flow-chart.jpg)
+
+The blue lines are not loop lines. They are there just to reference the instruction number that were given to us.<br>
+I tried to do myt code without flow chart and I have noticed I was forgetting the previews steps and I was getting slightly confused and spending more of time going back to the beginning of my code. Then I decided to do the flowchart and it was a lot easier to actually see the flow of my logic and by the time I had to code it, it was very easy to do so.
